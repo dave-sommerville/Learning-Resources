@@ -65,9 +65,9 @@ The migrations were zipped along with the rest of the application, so there's no
 It's also important to note that your start up project must be the MVC
 For example, this is incorrect: 
 
-![[Screenshot 2026-08-01 175407.png]]
+![](Media/Screenshot 2026-08-01 175407.png)
 ****
 It should start with https like below. To set your start up project to the MVC, click the down arrow and select Configure Startup Projects...
 
 
-![[Screenshot 2026-08-01 175740.png]]
+![](Media/Screenshot 2026-08-01 175740.png)

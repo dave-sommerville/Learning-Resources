@@ -3,7 +3,7 @@ In a relational database, data is split into multiple specialized tables to avoi
 ### INNER JOIN
 
 Returns only the rows where there is a matching value in **both** tables. If a record in the first table doesn't have a corresponding record in the second table, it will not appear in the results.
-![[INNER JOIN.png]]
+![](Media/INNER JOIN.png)
 
 ```
 -- Returns only employees who are assigned to an existing department
@@ -21,7 +21,7 @@ INNER JOIN Departments
 
 Returns **all** rows from the left table (the one listed first in the `FROM` clause), plus any matching rows from the right table. If there is no match for a row on the right side, the result will still show the left row, but the right table's columns will display as `NULL`.
 
-![[LEFT JOIN.png]]
+![](Media/LEFT JOIN.png)
 
 ```
 -- Returns ALL employees, even if they haven't been assigned to a department yet
@@ -40,7 +40,7 @@ Graphics © C.L. Moffat, 2008
 
 The exact inverse of a `LEFT JOIN`. It returns **all** rows from the right table (the one listed after the `JOIN` keyword), plus any matching rows from the left table. If a row in the right table has no matching row on the left, the left table's columns will display as `NULL`.
 
-![[RIGHT JOIN.png]]
+![](Media/RIGHT JOIN.png)
 
 ```
 -- Returns ALL departments, even if there are currently no employees assigned to them
@@ -56,7 +56,7 @@ RIGHT JOIN Departments
 ### FULL (OUTER) JOIN
 
 Returns **all rows from both tables**, regardless of whether a match exists or not. It essentially combines a `LEFT JOIN` and a `RIGHT JOIN` into a single query.
-![[OUTER JOIN.png]]
+![](Media/OUTER JOIN.png)
 ```
 -- Returns ALL employees and ALL departments, highlighting all mismatches on both sides
 SELECT 
