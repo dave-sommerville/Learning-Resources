@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5420923-7F5F-7147-9953-010449DA8C9C}|GameManager\\GameManager.csproj|c:\\users\\dave.sommerville\\source\\repos\\gamemanager\\gamemanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5420923-7F5F-7147-9953-010449DA8C9C}|GameManager\\GameManager.csproj|solutionrelative:gamemanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager.DAL\\Migrations\\20260731202043_InitialCreateTwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameManager.DAL\\Migrations\\20260731202043_InitialCreateTwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54EC15A-5B14-C712-A60C-4DC1CEC9892C}|GameManager.DAL\\GameManager.DAL.csproj|c:\\users\\dave.sommerville\\source\\repos\\gamemanager\\gamemanager.dal\\gamemngrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54EC15A-5B14-C712-A60C-4DC1CEC9892C}|GameManager.DAL\\GameManager.DAL.csproj|solutionrelative:gamemanager.dal\\gamemngrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5420923-7F5F-7147-9953-010449DA8C9C}|GameManager\\GameManager.csproj|c:\\users\\dave.sommerville\\source\\repos\\gamemanager\\gamemanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5420923-7F5F-7147-9953-010449DA8C9C}|GameManager\\GameManager.csproj|solutionrelative:gamemanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54EC15A-5B14-C712-A60C-4DC1CEC9892C}|GameManager.DAL\\GameManager.DAL.csproj|c:\\users\\dave.sommerville\\source\\repos\\gamemanager\\gamemanager.dal\\gamemanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54EC15A-5B14-C712-A60C-4DC1CEC9892C}|GameManager.DAL\\GameManager.DAL.csproj|solutionrelative:gamemanager.dal\\gamemanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5420923-7F5F-7147-9953-010449DA8C9C}|GameManager\\GameManager.csproj|c:\\users\\dave.sommerville\\source\\repos\\gamemanager\\gamemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5420923-7F5F-7147-9953-010449DA8C9C}|GameManager\\GameManager.csproj|solutionrelative:gamemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E6D296-007A-5BD9-581B-1D7929F31143}|GameManager.BLL\\GameManager.BLL.csproj|c:\\users\\dave.sommerville\\source\\repos\\gamemanager\\gamemanager.bll\\gamemngrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E6D296-007A-5BD9-581B-1D7929F31143}|GameManager.BLL\\GameManager.BLL.csproj|solutionrelative:gamemanager.bll\\gamemngrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54EC15A-5B14-C712-A60C-4DC1CEC9892C}|GameManager.DAL\\GameManager.DAL.csproj|c:\\users\\dave.sommerville\\source\\repos\\gamemanager\\gamemanager.dal\\migrations\\20260731193832_spellsadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54EC15A-5B14-C712-A60C-4DC1CEC9892C}|GameManager.DAL\\GameManager.DAL.csproj|solutionrelative:gamemanager.dal\\migrations\\20260731193832_spellsadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6583B187-2C31-1A20-59F9-9CCF339573EF}|GameManager.Models\\GameManager.Models.csproj|c:\\users\\dave.sommerville\\source\\repos\\gamemanager\\gamemanager.models\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6583B187-2C31-1A20-59F9-9CCF339573EF}|GameManager.Models\\GameManager.Models.csproj|solutionrelative:gamemanager.models\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5420923-7F5F-7147-9953-010449DA8C9C}|GameManager\\GameManager.csproj|c:\\users\\dave.sommerville\\source\\repos\\gamemanager\\gamemanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5420923-7F5F-7147-9953-010449DA8C9C}|GameManager\\GameManager.csproj|solutionrelative:gamemanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameManager\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GameManager\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-31T20:23:00.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260731202043_InitialCreateTwo.cs",
+              "DocumentMoniker": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager.DAL\\Migrations\\20260731202043_InitialCreateTwo.cs",
+              "RelativeDocumentMoniker": "GameManager.DAL\\Migrations\\20260731202043_InitialCreateTwo.cs",
+              "ToolTip": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager.DAL\\Migrations\\20260731202043_InitialCreateTwo.cs",
+              "RelativeToolTip": "GameManager.DAL\\Migrations\\20260731202043_InitialCreateTwo.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T20:20:43.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameMngrRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager.DAL\\GameMngrRepository.cs",
+              "RelativeDocumentMoniker": "GameManager.DAL\\GameMngrRepository.cs",
+              "ToolTip": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager.DAL\\GameMngrRepository.cs",
+              "RelativeToolTip": "GameManager.DAL\\GameMngrRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T20:15:24.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GameManager\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GameManager\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T20:09:10.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameMngrService.cs",
+              "DocumentMoniker": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager.BLL\\GameMngrService.cs",
+              "RelativeDocumentMoniker": "GameManager.BLL\\GameMngrService.cs",
+              "ToolTip": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager.BLL\\GameMngrService.cs",
+              "RelativeToolTip": "GameManager.BLL\\GameMngrService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T20:07:19.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManagerContext.cs",
+              "DocumentMoniker": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager.DAL\\GameManagerContext.cs",
+              "RelativeDocumentMoniker": "GameManager.DAL\\GameManagerContext.cs",
+              "ToolTip": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager.DAL\\GameManagerContext.cs",
+              "RelativeToolTip": "GameManager.DAL\\GameManagerContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T19:40:00.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260731193832_SpellsAdded.cs",
+              "DocumentMoniker": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager.DAL\\Migrations\\20260731193832_SpellsAdded.cs",
+              "RelativeDocumentMoniker": "GameManager.DAL\\Migrations\\20260731193832_SpellsAdded.cs",
+              "ToolTip": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager.DAL\\Migrations\\20260731193832_SpellsAdded.cs",
+              "RelativeToolTip": "GameManager.DAL\\Migrations\\20260731193832_SpellsAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T19:38:32.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager.Models\\Entities.cs",
+              "RelativeDocumentMoniker": "GameManager.Models\\Entities.cs",
+              "ToolTip": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager.Models\\Entities.cs",
+              "RelativeToolTip": "GameManager.Models\\Entities.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T19:31:49.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager\\appsettings.json",
+              "RelativeDocumentMoniker": "GameManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager\\appsettings.json",
+              "RelativeToolTip": "GameManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-31T19:17:19.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager\\Program.cs",
+              "RelativeDocumentMoniker": "GameManager\\Program.cs",
+              "ToolTip": "C:\\Users\\dave.sommerville\\source\\repos\\GameManager\\GameManager\\Program.cs",
+              "RelativeToolTip": "GameManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T19:17:17.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

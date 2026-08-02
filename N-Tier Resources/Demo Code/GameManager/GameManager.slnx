@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GameManager.BLL/GameManager.BLL.csproj" />
+  <Project Path="GameManager.DAL/GameManager.DAL.csproj" />
+  <Project Path="GameManager.Models/GameManager.Models.csproj" />
+  <Project Path="GameManager/GameManager.csproj" />
+</Solution>

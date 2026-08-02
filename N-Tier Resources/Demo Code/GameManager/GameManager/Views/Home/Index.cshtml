@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<CharacterOverviewViewModel>
+
+<h2>TTRPG Demo Characters</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Character</th>
+            <th>Class</th>
+            <th>Player (1:1)</th>
+            <th>Inventory Items (1:N)</th>
+            <th>Known Spells (N:M)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var character in Model)
+        {
+            <tr>
+                <td><strong>@character.CharacterName</strong></td>
+                <td>@character.CharacterClass</td>
+                <td>@character.PlayerUsername</td>
+                <td>
+                    <ul>
+                        @foreach (var item in character.InventoryItems)
+                        {
+                            <li>@item</li>
+                        }
+                    </ul>
+                </td>
+                <td>
+                    <ul>
+                        @foreach (var spell in character.KnownSpells)
+                        {
+                            <li>@spell</li>
+                        }
+                    </ul>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

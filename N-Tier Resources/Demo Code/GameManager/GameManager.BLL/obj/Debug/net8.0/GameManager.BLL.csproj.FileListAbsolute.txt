@@ -1,0 +1,36 @@
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\bin\Debug\net8.0\GameManager.BLL.deps.json
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\bin\Debug\net8.0\GameManager.BLL.dll
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\bin\Debug\net8.0\GameManager.BLL.pdb
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\bin\Debug\net8.0\GameManager.DAL.dll
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\bin\Debug\net8.0\GameManager.Models.dll
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\bin\Debug\net8.0\GameManager.DAL.pdb
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\bin\Debug\net8.0\GameManager.Models.pdb
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\obj\Debug\net8.0\GameManager.BLL.csproj.AssemblyReference.cache
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\obj\Debug\net8.0\GameManager.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\obj\Debug\net8.0\GameManager.BLL.AssemblyInfoInputs.cache
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\obj\Debug\net8.0\GameManager.BLL.AssemblyInfo.cs
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\obj\Debug\net8.0\GameManager.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\obj\Debug\net8.0\GameMana.3C585C8D.Up2Date
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\obj\Debug\net8.0\GameManager.BLL.dll
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\obj\Debug\net8.0\refint\GameManager.BLL.dll
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\obj\Debug\net8.0\GameManager.BLL.pdb
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.BLL\obj\Debug\net8.0\ref\GameManager.BLL.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\bin\Debug\net8.0\GameManager.BLL.deps.json
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\bin\Debug\net8.0\GameManager.BLL.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\bin\Debug\net8.0\GameManager.BLL.pdb
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\bin\Debug\net8.0\GameManager.DAL.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\bin\Debug\net8.0\GameManager.Models.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\bin\Debug\net8.0\GameManager.DAL.pdb
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\bin\Debug\net8.0\GameManager.Models.pdb
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\obj\Debug\net8.0\GameManager.BLL.csproj.AssemblyReference.cache
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\obj\Debug\net8.0\GameManager.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\obj\Debug\net8.0\GameManager.BLL.AssemblyInfoInputs.cache
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\obj\Debug\net8.0\GameManager.BLL.AssemblyInfo.cs
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\obj\Debug\net8.0\GameManager.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\obj\Debug\net8.0\GameMana.3C585C8D.Up2Date
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\obj\Debug\net8.0\GameManager.BLL.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\obj\Debug\net8.0\refint\GameManager.BLL.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\obj\Debug\net8.0\GameManager.BLL.pdb
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\obj\Debug\net8.0\ref\GameManager.BLL.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\bin\Debug\net8.0\GameManager.BLL.runtimeconfig.json
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.BLL\obj\Debug\net8.0\GameManager.BLL.genruntimeconfig.cache

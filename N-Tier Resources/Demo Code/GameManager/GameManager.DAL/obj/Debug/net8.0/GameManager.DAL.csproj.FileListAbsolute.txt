@@ -1,0 +1,34 @@
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\bin\Debug\net8.0\GameManager.DAL.deps.json
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\bin\Debug\net8.0\GameManager.DAL.runtimeconfig.json
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\bin\Debug\net8.0\GameManager.DAL.dll
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\bin\Debug\net8.0\GameManager.DAL.pdb
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\bin\Debug\net8.0\GameManager.Models.dll
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\bin\Debug\net8.0\GameManager.Models.pdb
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.csproj.AssemblyReference.cache
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.AssemblyInfoInputs.cache
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.AssemblyInfo.cs
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\obj\Debug\net8.0\GameMana.2B7F6D47.Up2Date
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.dll
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\obj\Debug\net8.0\refint\GameManager.DAL.dll
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.pdb
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.genruntimeconfig.cache
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.DAL\obj\Debug\net8.0\ref\GameManager.DAL.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\bin\Debug\net8.0\GameManager.DAL.deps.json
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\bin\Debug\net8.0\GameManager.DAL.runtimeconfig.json
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\bin\Debug\net8.0\GameManager.DAL.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\bin\Debug\net8.0\GameManager.DAL.pdb
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\bin\Debug\net8.0\GameManager.Models.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\bin\Debug\net8.0\GameManager.Models.pdb
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.csproj.AssemblyReference.cache
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.AssemblyInfoInputs.cache
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.AssemblyInfo.cs
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\obj\Debug\net8.0\GameMana.2B7F6D47.Up2Date
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\obj\Debug\net8.0\refint\GameManager.DAL.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.pdb
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\obj\Debug\net8.0\GameManager.DAL.genruntimeconfig.cache
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.DAL\obj\Debug\net8.0\ref\GameManager.DAL.dll

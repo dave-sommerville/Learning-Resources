@@ -1,0 +1,12 @@
+﻿{
+  "Logging": {
+    "ConnectionStrings": {
+      "DefaultConnection": "Server=localhost\\SQLEXPRESS;Database=GameManagerTest;Integrated Security=True; TrustServerCertificate=True;"
+    },
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}

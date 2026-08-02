@@ -1,0 +1,22 @@
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.Models\bin\Debug\net8.0\GameManager.Models.deps.json
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.Models\bin\Debug\net8.0\GameManager.Models.dll
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.Models\bin\Debug\net8.0\GameManager.Models.pdb
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.Models\obj\Debug\net8.0\GameManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.Models\obj\Debug\net8.0\GameManager.Models.AssemblyInfoInputs.cache
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.Models\obj\Debug\net8.0\GameManager.Models.AssemblyInfo.cs
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.Models\obj\Debug\net8.0\GameManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.Models\obj\Debug\net8.0\GameManager.Models.dll
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.Models\obj\Debug\net8.0\refint\GameManager.Models.dll
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.Models\obj\Debug\net8.0\GameManager.Models.pdb
+C:\Users\dave.sommerville\source\repos\GameManager\GameManager.Models\obj\Debug\net8.0\ref\GameManager.Models.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.Models\bin\Debug\net8.0\GameManager.Models.deps.json
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.Models\bin\Debug\net8.0\GameManager.Models.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.Models\bin\Debug\net8.0\GameManager.Models.pdb
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.Models\obj\Debug\net8.0\GameManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.Models\obj\Debug\net8.0\GameManager.Models.AssemblyInfoInputs.cache
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.Models\obj\Debug\net8.0\GameManager.Models.AssemblyInfo.cs
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.Models\obj\Debug\net8.0\GameManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.Models\obj\Debug\net8.0\GameManager.Models.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.Models\obj\Debug\net8.0\refint\GameManager.Models.dll
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.Models\obj\Debug\net8.0\GameManager.Models.pdb
+C:\Users\dave.r.sommerville\OneDrive\Documents\Main Frame\GameManager\GameManager\GameManager.Models\obj\Debug\net8.0\ref\GameManager.Models.dll
